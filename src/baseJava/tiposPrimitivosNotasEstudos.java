@@ -1,4 +1,4 @@
-package tiposPrimitivos;
+package baseJava;
 
 //Tipos primitivos do Java - São providos pela linguagem nativamente
 public class tiposPrimitivosNotasEstudos {

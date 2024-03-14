@@ -1,4 +1,4 @@
-package tiposDeDadosString;
+package baseJava;
 
 //Usado para representar uma cadeia de carateres
 

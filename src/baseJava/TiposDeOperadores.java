@@ -1,4 +1,4 @@
-package tiposDeOperadores;
+package baseJava;
 
 public class TiposDeOperadores {
     public static void main(String[] args) {

@@ -1,8 +1,8 @@
-package conversaoDeTiposCasting;
+package baseJava;
 
 //Casting: Operação de transformar um tipo de dados em outro.
 //Widening Casting vs Narrowing Casting
-public class Casting {
+public class ConversaoDeTiposCasting {
     public static void main(String[] args) {
         // Widening Casting (Implicito)
         byte variavelPequena = 1;

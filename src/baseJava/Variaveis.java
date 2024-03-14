@@ -1,4 +1,4 @@
-package variaveis;
+package baseJava;
 
 public class Variaveis {
     

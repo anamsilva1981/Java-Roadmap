@@ -1,4 +1,4 @@
-package entradaESaidaDeDados;
+package baseJava;
 
 import java.util.Scanner;
 
@@ -6,7 +6,7 @@ import java.util.Scanner;
 //Entrada de dados: Ler dados digitados pelo usuário
 //Saida de dados: Escrever dados para o usuário
 
-public class Ios {
+public class EntradaESaidaDeDadosIos {
     public static void main(String[] args) {
 // Leitura de dados de entrada
         System.out.println("Digite um numero");

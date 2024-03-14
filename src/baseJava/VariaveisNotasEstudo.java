@@ -1,4 +1,4 @@
-package variaveis;
+package baseJava;
 
 public class VariaveisNotasEstudo {
     public static void main(String[] args) {

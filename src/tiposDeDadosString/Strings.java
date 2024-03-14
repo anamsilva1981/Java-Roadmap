@@ -11,7 +11,8 @@ public class Strings {
 
         Scanner scanner = new Scanner(System.in);
         System.out.println("Digite seu nome ");
-        String nome = scanner.nextLine();
+        String nome = scanner.nextLine(); // o valor escrito até o 'Enter'
+//        String nome = scanner.next(); // Somente a primeira palavra
         System.out.println("Olá, " + nome);
         scanner.close();
 

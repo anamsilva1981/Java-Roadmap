@@ -1,4 +1,4 @@
-package poofundamentos.projeto.src.model;
+package poofundamentos.projetoContaBancaria.src.model;
 
 import java.util.InputMismatchException;
 
@@ -77,6 +77,14 @@ public class ContaBancaria {
         this.saldo -= valor;
 
         return valor;
+    }
+
+    public void transferencia(Double valor, ContaBancaria contaDestino){
+        // chama o metodo sacar que vai efetuar o saque
+        this.sacar(valor);
+        
+        // Faz o deposito na conta de destino
+        contaDestino.depositar(valor);
     }
 
     //#endregion

@@ -1,0 +1,147 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Java-Roadmap_ce7e996d"
+        },
+        {
+            "type": "java",
+            "name": "ConversaoDeTiposCasting",
+            "request": "launch",
+            "mainClass": "baseJava.ConversaoDeTiposCasting",
+            "projectName": "Java-Roadmap_ce7e996d"
+        },
+        {
+            "type": "java",
+            "name": "EntradaESaidaDeDadosIos",
+            "request": "launch",
+            "mainClass": "baseJava.EntradaESaidaDeDadosIos",
+            "projectName": "Java-Roadmap_ce7e996d"
+        },
+        {
+            "type": "java",
+            "name": "Strings",
+            "request": "launch",
+            "mainClass": "baseJava.Strings",
+            "projectName": "Java-Roadmap_ce7e996d"
+        },
+        {
+            "type": "java",
+            "name": "TiposDeOperadores",
+            "request": "launch",
+            "mainClass": "baseJava.TiposDeOperadores",
+            "projectName": "Java-Roadmap_ce7e996d"
+        },
+        {
+            "type": "java",
+            "name": "VariaveisNotasEstudo",
+            "request": "launch",
+            "mainClass": "baseJava.VariaveisNotasEstudo",
+            "projectName": "Java-Roadmap_ce7e996d"
+        },
+        {
+            "type": "java",
+            "name": "tiposPrimitivosNotasEstudos",
+            "request": "launch",
+            "mainClass": "baseJava.tiposPrimitivosNotasEstudos",
+            "projectName": "Java-Roadmap_ce7e996d"
+        },
+        {
+            "type": "java",
+            "name": "CalculadoraDeDesconto",
+            "request": "launch",
+            "mainClass": "exercicios.CalculadoraDeDesconto",
+            "projectName": "Java-Roadmap_ce7e996d"
+        },
+        {
+            "type": "java",
+            "name": "ConversorDolarReal",
+            "request": "launch",
+            "mainClass": "exercicios.ConversorDolarReal",
+            "projectName": "Java-Roadmap_ce7e996d"
+        },
+        {
+            "type": "java",
+            "name": "EstoqueMedio",
+            "request": "launch",
+            "mainClass": "exercicios.EstoqueMedio",
+            "projectName": "Java-Roadmap_ce7e996d"
+        },
+        {
+            "type": "java",
+            "name": "IdadeEmDias",
+            "request": "launch",
+            "mainClass": "exercicios.IdadeEmDias",
+            "projectName": "Java-Roadmap_ce7e996d"
+        },
+        {
+            "type": "java",
+            "name": "MediaAritimetrica",
+            "request": "launch",
+            "mainClass": "exercicios.MediaAritimetrica",
+            "projectName": "Java-Roadmap_ce7e996d"
+        },
+        {
+            "type": "java",
+            "name": "RelacionamentoDeOrdem",
+            "request": "launch",
+            "mainClass": "exercicios.RelacionamentoDeOrdem",
+            "projectName": "Java-Roadmap_ce7e996d"
+        },
+        {
+            "type": "java",
+            "name": "SaudacaoConsole",
+            "request": "launch",
+            "mainClass": "exercicios.SaudacaoConsole",
+            "projectName": "Java-Roadmap_ce7e996d"
+        },
+        {
+            "type": "java",
+            "name": "Tabuada",
+            "request": "launch",
+            "mainClass": "exercicios.Tabuada",
+            "projectName": "Java-Roadmap_ce7e996d"
+        },
+        {
+            "type": "java",
+            "name": "ExemploSemPoo",
+            "request": "launch",
+            "mainClass": "poo.ExemploSemPoo",
+            "projectName": "Java-Roadmap_ce7e996d"
+        },
+        {
+            "type": "java",
+            "name": "App(1)",
+            "request": "launch",
+            "mainClass": "poofundamentos.classes.App",
+            "projectName": "Java-Roadmap_ce7e996d"
+        },
+        {
+            "type": "java",
+            "name": "App(2)",
+            "request": "launch",
+            "mainClass": "poofundamentos.projetoContaBancaria.src.App",
+            "projectName": "Java-Roadmap_ce7e996d"
+        },
+        {
+            "type": "java",
+            "name": "App(3)",
+            "request": "launch",
+            "mainClass": "poofundamentos.tiposDeDados.App",
+            "projectName": "Java-Roadmap_ce7e996d"
+        }
+    ]
+}
